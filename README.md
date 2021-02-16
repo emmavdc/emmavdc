@@ -5,7 +5,7 @@ About me
 
 Contact me 
 ===============
-:computer: You can reach me at emma_vandecasteele@yahoo.fr
+>:computer: You can reach me at emma_vandecasteele@yahoo.fr
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emma-vandecasteele-164948165/)
 &nbsp;
